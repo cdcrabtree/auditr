@@ -1,0 +1,14 @@
+Package: auditr
+Type: Package
+Title: Classifies Surnames According to Race and County Demographics
+Version: 0.1.0
+Authors@R: c(person("Charles", "Crabtree", role = c("aut", "cre"),
+                     email = "ccrabtr@umich.edu"),
+              person("Volha", "Chykina", role = c("aut")))
+Description: Classifies surnames according to race and county demographics.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 6.0.1
+Imports: wru, ggplot2, ggridges, gridExtra
+Depends: R (>= 2.10)

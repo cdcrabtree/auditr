@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.travis\.yml$
+^appveyor\.yml$
+^revdep$
+^_config\.yml$
+^\.gitattributes\.R$
+^cran-comments\.md$
+^paper$
+^License\.md$
+^NEWS\.md$
