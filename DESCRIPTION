@@ -1,11 +1,11 @@
 Package: auditr
 Type: Package
-Title: Classifies Surnames According to Race and County Demographics
+Title: Classify Surnames by Race Across U.S. Counties
 Version: 0.1.0
 Authors@R: c(person("Charles", "Crabtree", role = c("aut", "cre"),
                      email = "ccrabtr@umich.edu"),
               person("Volha", "Chykina", role = c("aut")))
-Description: Classifies surnames according to race and county demographics.
+Description: Classifies surnames by race across U.S. counties.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: false
