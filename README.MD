@@ -13,7 +13,7 @@ The latest development version (0.1.0) is on GitHub can be installed using devto
 if(!require("ghit")){
   install.packages("ghit")
 }
-ghit::install_github("cdcrabtree/auditr")
+remotes::install_github("cdcrabtree/auditr")
 ```
 
 ## Support or Contact
